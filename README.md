@@ -1,4 +1,4 @@
-# React Todo Application
+# React Background Color Change Application
 
 A simple background change application built with **React**.
 
